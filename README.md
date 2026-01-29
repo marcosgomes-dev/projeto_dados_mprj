@@ -21,8 +21,8 @@ Para rodar o projeto localmente, abra o seu terminal e execute os **3 comandos**
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/marcosgomes-dev/desafio-dados-mprj.git](https://github.com/marcosgomes-dev/desafio-dados-mprj.git)
-cd desafio-dados-mprj
+git clone [https://github.com/marcosgomes-dev/projeto_dados_mprj.git](https://github.com/marcosgomes-dev/projeto_dados_mprj.git)
+cd projeto_dados_mprj
 
 # 2. Instale as dependências
 pip3 install -r requirements.txt
